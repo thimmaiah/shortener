@@ -1,7 +1,7 @@
 {<img src="https://secure.travis-ci.org/jpmcgrath/shortener.png?branch=master" alt="Build Status" />}[http://travis-ci.org/jpmcgrath/shortener]
 
 = Shortener
-
+Works with Rails4. Forked from jpmcgrath/shortener
 Shortener is a Rails Engine Gem that makes it easy to create and interpret shortened URLs on your own domain from within your Rails application. Once installed Shortener will generate, store URLS and "unshorten" shortened URLs for your applications visitors, all whilst collecting basic usage metrics.
 
 ---
